@@ -4,5 +4,6 @@ Written in C.
 
 ![Alt text](ProjectImg.png?raw=true "Title")
 
-<img src="https://github.com/15aber/OpenGL_LEGOHouse/ProjectImg2.png" width="48">
+<img src="https://github.com/15aber/OpenGL_LEGOHouse/ProjectImg2.png" width="100">
+
 ![Alt text](ProjectImg2.png?raw=true "Title")
