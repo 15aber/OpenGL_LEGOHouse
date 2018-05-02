@@ -1,0 +1,15 @@
+﻿Build started 02-05-2018 10:05:16.
+     1>Project "C:\Users\tenna\Documents\CityU\Computer Graphics for Engineers\Miniproject\handed in\Tenna-Boeriis-Rasmussen-40096350\Tenna Boeriis Rasmussen 40096350\source code\MiniProject\MiniProject\MiniProject.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\tenna\Documents\CityU\Computer Graphics for Engineers\Miniproject\handed in\Tenna-Boeriis-Rasmussen-40096350\Tenna Boeriis Rasmussen 40096350\source code\MiniProject\Debug\MiniProject.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\tenna\Documents\CityU\Computer Graphics for Engineers\Miniproject\handed in\Tenna-Boeriis-Rasmussen-40096350\Tenna Boeriis Rasmussen 40096350\source code\MiniProject\Debug\MiniProject.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\tenna\Documents\CityU\Computer Graphics for Engineers\Miniproject\handed in\Tenna-Boeriis-Rasmussen-40096350\Tenna Boeriis Rasmussen 40096350\source code\MiniProject\Debug\MiniProject.lib" /MACHINE:X86 Debug\floor.obj
+         Debug\gsrc.obj
+         Debug\legobrick.obj
+         Debug\legoHouse.obj
+         Debug\Main.obj
+         Debug\shadow.obj
+         MiniProject.vcxproj -> C:\Users\tenna\Documents\CityU\Computer Graphics for Engineers\Miniproject\handed in\Tenna-Boeriis-Rasmussen-40096350\Tenna Boeriis Rasmussen 40096350\source code\MiniProject\Debug\MiniProject.exe
+     1>Done Building Project "C:\Users\tenna\Documents\CityU\Computer Graphics for Engineers\Miniproject\handed in\Tenna-Boeriis-Rasmussen-40096350\Tenna Boeriis Rasmussen 40096350\source code\MiniProject\MiniProject\MiniProject.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.65
